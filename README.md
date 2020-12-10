@@ -1,0 +1,2 @@
+# Python-Essential_B1_Day2_Assignment_LetsUpgrade
+Python Essential_B1_Day2_Assignment_LetsUpgrade
